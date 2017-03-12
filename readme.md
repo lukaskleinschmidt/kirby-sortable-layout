@@ -24,8 +24,8 @@ fields:
 
   modules:
     label: Modules
-    type:  modules
+    type: modules
 
-    layout:  custom
+    layout: custom
   ...
 ```
